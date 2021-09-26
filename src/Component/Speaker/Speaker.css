@@ -1,0 +1,24 @@
+.speaker{
+    box-shadow: 5px 5px 5px 5px lightgray;
+    text-align: center;
+    padding-top: 20px;
+    border-radius: 10px;
+}
+.speaker-img{
+    width: 80%;
+    height: 45%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px;
+}
+.add-btn{
+    background-color: gold;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-right: 60px;
+    padding-left: 60px;
+    border: 1px solid lightgray;
+    border-radius: 5px;
+    cursor: pointer;
+}

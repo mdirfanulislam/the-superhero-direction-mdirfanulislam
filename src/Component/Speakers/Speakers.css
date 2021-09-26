@@ -1,0 +1,15 @@
+.speakers{
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+.speaker-container{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-row-gap: 20px;
+    grid-column-gap: 10px;
+}
+.cart-container{
+    padding-right: 20px;
+}
